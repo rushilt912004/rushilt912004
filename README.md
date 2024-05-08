@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack (but mainly Backend Develepment,Cloud Services)
 - 🌱 I’m currently learning JAVA,Python,MySQL,Frontend(HTML,CSS,JS)
 - 💞️ I’m looking to collaborate on Very simple projects
-- 📫 How to reach me-rushilt1234@gmail.com
+- 📫 How to reach me- rushilt1234@gmail.com or hmu on instagram- @rushilty.09
 
 <!---
 rushilt912004/rushilt912004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
